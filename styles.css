@@ -1,0 +1,10 @@
+* {
+    background-color: beige;
+    color: rgb(235, 180, 144);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.firstImage {
+    height: 600px;
+    width: auto;
+}
