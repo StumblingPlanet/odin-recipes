@@ -1,0 +1,1 @@
+This project teached me the basics of HTML, including the boilerplate, links, img+alt, paragraphs and <h>.
